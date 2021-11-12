@@ -1,10 +1,6 @@
 package sender;
 
 import adapter.User;
-import com.sun.xml.internal.ws.api.server.Adapter;
-import facebook.FacebookUser;
-import twitter.TwitterUser;
-
 import java.util.Objects;
 
 public class MessageSender {
